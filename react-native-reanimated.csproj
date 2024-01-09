@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <RootNamespace>react_native_reanimated</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <PackageId>react-native-reanimated-tc</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>Tiago</Authors>
+    <Company>TC</Company>
+    <RepositoryUrl>https://github.com/tcavalin/react-native-reanimated</RepositoryUrl>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+</Project>
